@@ -87,7 +87,11 @@ Government agencies
 private corporations 
 
 
-### profit through subscription
+### profit 
+through subscription - multitier?
+T1 - give advice for a crop cycle
+T2 - specialised attention
+
 consulting services
 data licensing
 partnerships with agribusinesses
