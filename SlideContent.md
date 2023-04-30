@@ -41,7 +41,7 @@ Consumers are becoming more aware of the products they pay and will be intereste
 
 # Point 3
 - where to collect data and labels? how to do it cost effectively and reliably?
-
+https://climateknowledgeportal.worldbank.org/country/south-africa/climate-data-historical
 
 - what considerations in regards formatting and processing?
 
